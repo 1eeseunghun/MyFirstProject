@@ -60,7 +60,10 @@
 
 ![메인화면](https://user-images.githubusercontent.com/121784780/224412949-150074a0-dc54-4c0c-8a50-1a4ebf1ab99c.png)
 
-
 ![회원가입유효성검사](https://user-images.githubusercontent.com/121784780/224413060-fd77a84f-a575-4692-a31b-23aab9cbd9c7.png)
 
 ![게시글작성](https://user-images.githubusercontent.com/121784780/224413332-8268e92b-ca8c-4170-b4db-6f340155d854.png)
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1eeseunghun%2FMyFirstProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
